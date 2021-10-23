@@ -9,6 +9,8 @@
 </br>
 
 ## 💻 Info:
+Análise de dados da planilha pública "Execução de despesas - Janeiro/2018" do IFRR - Instituto Federal de Educação, Ciência e Tecnologia de Roraima.
+
 </br>
 Fonte dos dados: https://dados.gov.br/dataset/execucao-de-despesas-janeiro-2018
 
