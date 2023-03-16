@@ -7,3 +7,4 @@ __*Formação BlockChain*__
 ## Projetos
 
 - [Criando e Utilizando a Sua Carteira de Criptomoedas](./Criando%20e%20Utilizando%20a%20Sua%20Carteira%20de%20Criptomoedas/)
+- [Criando a Sua Primeira Criptomoeda da Rede Ethereum](./Criando%20a%20Sua%20Primeira%20Criptomoeda%20da%20Rede%20Ethereum/)
