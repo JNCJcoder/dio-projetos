@@ -1,0 +1,1 @@
+console.log(`Nome: ${gets()} ${gets()} ID: ${gets()}`);

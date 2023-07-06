@@ -2,6 +2,10 @@
 
 Projetos feitos por mim durante meus estudos na plataforma da DIO (Digital Innovation One).
 
+### 📝 DIO-codecamp-1
+
+Projetos feitos durante o primeiro codecamp da DIO.
+
 ### 📝 DIO-blockchain
 
 Projetos feitos durante as aulas do curso de Formação blockchain da DIO.
