@@ -2,6 +2,10 @@
 
 Projetos feitos por mim durante meus estudos na plataforma da DIO (Digital Innovation One).
 
+### 📝 dio-ciencia-de-dados
+
+Projetos feitos durante o bootcamp "Potência Tech powered by iFood | Ciência de Dados" da DIO
+
 ### 📝 DIO-codecamp-1
 
 Projetos feitos durante o primeiro codecamp da DIO.
